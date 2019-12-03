@@ -10,6 +10,7 @@ public class Math{
         return first+second;
     }
     public int sub(int first,int second){
+        System.out.println("Hello World"+(first+second));
         return first-second;
     }
 }
